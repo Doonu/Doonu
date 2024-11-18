@@ -1,4 +1,4 @@
-name: WakaTime Stats
+name: WakaTime Stat
 on:
   schedule:
     - cron: '0 * * * *'
