@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-https://wakatime.com/badge/user/0aa69d91-fc73-49e1-84ef-6c6e7cb80104.svg
+[![wakatime](https://wakatime.com/badge/user/0aa69d91-fc73-49e1-84ef-6c6e7cb80104.svg)](https://wakatime.com/@0aa69d91-fc73-49e1-84ef-6c6e7cb80104)
 
 <!--END_SECTION:waka-->
 
