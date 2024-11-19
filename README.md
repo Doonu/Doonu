@@ -2,13 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript     4 hrs 34 mins   █████████████████████░░░░   83.83 %
-JSON           32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-JavaScript     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
+https://wakatime.com/badge/user/0aa69d91-fc73-49e1-84ef-6c6e7cb80104.svg
 
 <!--END_SECTION:waka-->
 
